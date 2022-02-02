@@ -1,0 +1,31 @@
+typescript precisa ter a extensão ts
+-----
+
+no cmd
+
+abrir a pasta aonde esta os arquivos
+
+tsc app  -> converte os arquivos de typescript para javascript
+
+node app -> executar o arquivos
+
+-----
+tsconfig.json para modificar o comprotamento do copilador de for necessario.
+
+no cmd 
+
+tsc - init 
+
+-----
+
+tsc - w
+
+-----
+
+-----
+
+-----
+
+-----
+
+-----
